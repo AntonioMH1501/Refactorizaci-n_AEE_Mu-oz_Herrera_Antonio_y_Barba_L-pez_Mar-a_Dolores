@@ -18,3 +18,4 @@ al igual que a otras, como m, que era importeBase, tC, que era tipoCliente y dV,
 
 Código Spaghetti. La anidación de múltiples if-else crea una estructura en forma de flecha > que hace casi imposible seguir el flujo lógico de ejecución.
 
+Para el cambio de los numeros decimales, la hemos introducido como una constante privada. Le hemos puesto los nombres de DESCUENTO_VIP, DESCUENTO_ESTANDAR y DESCUENTO_CLIENTE. Luego hemos hecho la prueba en el test y aún sigue funcionando. Para refactorizarlas, hemos seleccionado el número, por ejemplo 0.15, y le hemos pulsado a la opción de refactor y de ahí seleccionar introduce y luego constant. Se le da un nombre y te crea una contante con el valor del número seleccionado.
