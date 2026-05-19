@@ -1,1 +1,2 @@
-# Refactorizacion_AEE_Munoz_Herrera_Antonio_y_Barba_Lopez_Maria_Dolores
+# Refactorizacion_AEE
+María Dolores Barba López y Antonio Muñoz Herrera
